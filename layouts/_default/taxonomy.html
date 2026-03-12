@@ -1,8 +1,0 @@
-{{ define "main" }}
-<section class="section-heading page-heading">
-  <p class="eyebrow">Tag</p>
-  <h1>{{ .Title }}</h1>
-  <p>与该标签相关的内容共 {{ len .Pages }} 篇。</p>
-</section>
-{{ partial "post-cards.html" .Pages }}
-{{ end }}

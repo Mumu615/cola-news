@@ -1,0 +1,19 @@
+{{ define "head" }}
+<script defer src="{{ "/js/search.js" | relURL }}"></script>
+{{ end }}
+
+{{ define "main" }}
+<section class="section-heading page-heading">
+  <p class="eyebrow">Search</p>
+  <h1>{{ .Title }}</h1>
+  {{ with .Description }}<p>{{ . }}</p>{{ end }}
+</section>
+<section class="search-panel">
+  <label class="search-box" for="search-input">
+    <span>输入关键词</span>
+    <input id="search-input" type="search" placeholder="例如：Agent、OpenAI、MCP、Rust">
+  </label>
+  <div id="search-status" class="search-status">正在准备索引…</div>
+  <div id="search-results" class="search-results"></div>
+</section>
+{{ end }}

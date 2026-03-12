@@ -1,0 +1,23 @@
+{{ if gt (len .) 0 }}
+<div class="card-list">
+  {{ range . }}
+  <article class="post-card">
+    <div class="card-topline">
+      <span>{{ if eq .Params.newsType "github_trending" }}GitHub 热榜{{ else }}AI 资讯{{ end }}</span>
+      <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "2006-01-02" }}</time>
+    </div>
+    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    <p>{{ with .Params.summary }}{{ . }}{{ else }}{{ .Summary }}{{ end }}</p>
+    <div class="meta-row">
+      <span>{{ with .Params.sourceName }}{{ . }}{{ else }}可乐资讯{{ end }}</span>
+      {{ with .Params.tags }}<span>#{{ index . 0 }}</span>{{ end }}
+    </div>
+  </article>
+  {{ end }}
+</div>
+{{ else }}
+<div class="empty-state">
+  <h3>内容正在路上</h3>
+  <p>当前分区还没有文章，等采集任务跑起来后会自动补齐。</p>
+</div>
+{{ end }}
