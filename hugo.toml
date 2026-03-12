@@ -2,7 +2,7 @@ baseURL = "https://mumu615.github.io/cola-news/"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh-cn"
 title = "可乐资讯"
-theme = "PaperMod"
+theme = "hugo-theme-stack"
 
 hasCJKLanguage = true
 enableRobotsTXT = true
