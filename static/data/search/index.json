@@ -1,0 +1,763 @@
+[
+  {
+    "id": "2026-03-12-ai-70070a692226",
+    "title": "A new way to express yourself: Gemini can now create music",
+    "summary": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images.",
+    "source_name": "Google DeepMind Blog",
+    "tags": [
+      "DeepMind"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Wed, 18 Feb 2026 16:01:38 +0000",
+    "permalink": "/posts/2026-03-12-ai-70070a692226/"
+  },
+  {
+    "id": "2026-03-12-ai-4df80db8c9aa",
+    "title": "Rakuten fixes issues twice as fast with Codex",
+    "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
+    "source_name": "OpenAI Blog",
+    "tags": [
+      "OpenAI"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Wed, 11 Mar 2026 13:00:00 GMT",
+    "permalink": "/posts/2026-03-12-ai-4df80db8c9aa/"
+  },
+  {
+    "id": "2026-03-12-ai-6a121168ce92",
+    "title": "Designing AI agents to resist prompt injection",
+    "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+    "source_name": "OpenAI Blog",
+    "tags": [
+      "OpenAI"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Wed, 11 Mar 2026 11:30:00 GMT",
+    "permalink": "/posts/2026-03-12-ai-6a121168ce92/"
+  },
+  {
+    "id": "2026-03-12-ai-61fc2db7f737",
+    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+    "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+    "source_name": "OpenAI Blog",
+    "tags": [
+      "OpenAI"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Wed, 11 Mar 2026 11:00:00 GMT",
+    "permalink": "/posts/2026-03-12-ai-61fc2db7f737/"
+  },
+  {
+    "id": "2026-03-12-ai-4c3591cdce6d",
+    "title": "From model to agent: Equipping the Responses API with a computer environment",
+    "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+    "source_name": "OpenAI Blog",
+    "tags": [
+      "OpenAI"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Wed, 11 Mar 2026 11:00:00 GMT",
+    "permalink": "/posts/2026-03-12-ai-4c3591cdce6d/"
+  },
+  {
+    "id": "2026-03-12-ai-a3b05b385d6f",
+    "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
+    "summary": "Google 2025 recap: Research breakthroughs of the year",
+    "source_name": "Google DeepMind Blog",
+    "tags": [
+      "DeepMind"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Tue, 23 Dec 2025 17:01:02 +0000",
+    "permalink": "/posts/2026-03-12-ai-a3b05b385d6f/"
+  },
+  {
+    "id": "2026-03-12-ai-c889d54f88d1",
+    "title": "Accelerating discovery in India through AI-powered science and education",
+    "summary": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education",
+    "source_name": "Google DeepMind Blog",
+    "tags": [
+      "DeepMind"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Tue, 17 Feb 2026 13:42:20 +0000",
+    "permalink": "/posts/2026-03-12-ai-c889d54f88d1/"
+  },
+  {
+    "id": "2026-03-12-ai-64a3adb19994",
+    "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+    "summary": "Our latest Veo update generates lively, dynamic clips that feel natural and engaging — and supports vertical video generation.",
+    "source_name": "Google DeepMind Blog",
+    "tags": [
+      "DeepMind"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Tue, 13 Jan 2026 17:00:18 +0000",
+    "permalink": "/posts/2026-03-12-ai-64a3adb19994/"
+  },
+  {
+    "id": "2026-03-12-ai-c10bb33b142f",
+    "title": "Improving instruction hierarchy in frontier LLMs",
+    "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
+    "source_name": "OpenAI Blog",
+    "tags": [
+      "OpenAI"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Tue, 10 Mar 2026 11:00:00 GMT",
+    "permalink": "/posts/2026-03-12-ai-c10bb33b142f/"
+  },
+  {
+    "id": "2026-03-12-ai-3bdd8607a4ee",
+    "title": "New ways to learn math and science in ChatGPT",
+    "summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
+    "source_name": "OpenAI Blog",
+    "tags": [
+      "OpenAI"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Tue, 10 Mar 2026 10:00:00 GMT",
+    "permalink": "/posts/2026-03-12-ai-3bdd8607a4ee/"
+  },
+  {
+    "id": "2026-03-12-ai-a811ba168e8a",
+    "title": "Introducing Storage Buckets on the Hugging Face Hub",
+    "summary": "",
+    "source_name": "Hugging Face Blog",
+    "tags": [
+      "HuggingFace"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Tue, 10 Mar 2026 00:00:00 GMT",
+    "permalink": "/posts/2026-03-12-ai-a811ba168e8a/"
+  },
+  {
+    "id": "2026-03-12-ai-eedb52b540be",
+    "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
+    "summary": "",
+    "source_name": "Hugging Face Blog",
+    "tags": [
+      "HuggingFace"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Tue, 10 Mar 2026 00:00:00 GMT",
+    "permalink": "/posts/2026-03-12-ai-eedb52b540be/"
+  },
+  {
+    "id": "2026-03-12-ai-e9f337c84f39",
+    "title": "PRX Part 3 — Training a Text-to-Image Model in 24h!",
+    "summary": "",
+    "source_name": "Hugging Face Blog",
+    "tags": [
+      "HuggingFace"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Tue, 03 Mar 2026 16:50:49 GMT",
+    "permalink": "/posts/2026-03-12-ai-e9f337c84f39/"
+  },
+  {
+    "id": "2026-03-12-ai-05fb5653b2a8",
+    "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+    "summary": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
+    "source_name": "Google DeepMind Blog",
+    "tags": [
+      "DeepMind"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Tue, 03 Mar 2026 16:35:55 +0000",
+    "permalink": "/posts/2026-03-12-ai-05fb5653b2a8/"
+  },
+  {
+    "id": "2026-03-12-ai-0fe114227dcc",
+    "title": "Project Genie: Experimenting with infinite, interactive worlds",
+    "summary": "Google AI Ultra subscribers in the U.S. can try out Project Genie, an experimental research prototype that lets you create and explore worlds.",
+    "source_name": "Google DeepMind Blog",
+    "tags": [
+      "DeepMind"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Thu, 29 Jan 2026 17:01:05 +0000",
+    "permalink": "/posts/2026-03-12-ai-0fe114227dcc/"
+  },
+  {
+    "id": "2026-03-12-ai-1d7158e0c1aa",
+    "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+    "summary": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed.",
+    "source_name": "Google DeepMind Blog",
+    "tags": [
+      "DeepMind"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Thu, 26 Feb 2026 16:01:50 +0000",
+    "permalink": "/posts/2026-03-12-ai-1d7158e0c1aa/"
+  },
+  {
+    "id": "2026-03-12-ai-c13edc697bb6",
+    "title": "Mixture of Experts (MoEs) in Transformers",
+    "summary": "",
+    "source_name": "Hugging Face Blog",
+    "tags": [
+      "HuggingFace"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Thu, 26 Feb 2026 00:00:00 GMT",
+    "permalink": "/posts/2026-03-12-ai-c13edc697bb6/"
+  },
+  {
+    "id": "2026-03-12-ai-3d7f93c0d5ac",
+    "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+    "summary": "3.1 Pro is designed for tasks where a simple answer isn’t enough.",
+    "source_name": "Google DeepMind Blog",
+    "tags": [
+      "DeepMind"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Thu, 19 Feb 2026 16:06:14 +0000",
+    "permalink": "/posts/2026-03-12-ai-3d7f93c0d5ac/"
+  },
+  {
+    "id": "2026-03-12-ai-98d72393bae2",
+    "title": "How NVIDIA AI-Q Reached \\#1 on DeepResearch Bench I and II",
+    "summary": "",
+    "source_name": "Hugging Face Blog",
+    "tags": [
+      "HuggingFace"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Thu, 12 Mar 2026 03:53:34 GMT",
+    "permalink": "/posts/2026-03-12-ai-98d72393bae2/"
+  },
+  {
+    "id": "2026-03-12-ai-6b28fc121c51",
+    "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+    "summary": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges.",
+    "source_name": "Google DeepMind Blog",
+    "tags": [
+      "DeepMind"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Thu, 12 Feb 2026 16:15:09 +0000",
+    "permalink": "/posts/2026-03-12-ai-6b28fc121c51/"
+  },
+  {
+    "id": "2026-03-12-ai-0a2a3558de7a",
+    "title": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
+    "summary": "",
+    "source_name": "Hugging Face Blog",
+    "tags": [
+      "HuggingFace"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Thu, 05 Mar 2026 14:16:49 GMT",
+    "permalink": "/posts/2026-03-12-ai-0a2a3558de7a/"
+  },
+  {
+    "id": "2026-03-12-ai-ee874fb8ed33",
+    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+    "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+    "source_name": "OpenAI Blog",
+    "tags": [
+      "OpenAI"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Thu, 05 Mar 2026 10:00:00 GMT",
+    "permalink": "/posts/2026-03-12-ai-ee874fb8ed33/"
+  },
+  {
+    "id": "2026-03-12-ai-b5ac6063bbec",
+    "title": "GPT-5.4 Thinking System Card",
+    "summary": "",
+    "source_name": "OpenAI Blog",
+    "tags": [
+      "OpenAI"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Thu, 05 Mar 2026 10:00:00 GMT",
+    "permalink": "/posts/2026-03-12-ai-b5ac6063bbec/"
+  },
+  {
+    "id": "2026-03-12-ai-d37b7be10955",
+    "title": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines",
+    "summary": "",
+    "source_name": "Hugging Face Blog",
+    "tags": [
+      "HuggingFace"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Thu, 05 Mar 2026 00:00:00 GMT",
+    "permalink": "/posts/2026-03-12-ai-d37b7be10955/"
+  },
+  {
+    "id": "2026-03-12-ai-e511f0abb208",
+    "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
+    "summary": "",
+    "source_name": "Hugging Face Blog",
+    "tags": [
+      "HuggingFace"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Mon, 09 Mar 2026 18:36:33 GMT",
+    "permalink": "/posts/2026-03-12-ai-e511f0abb208/"
+  },
+  {
+    "id": "2026-03-12-ai-5cda3a118f9b",
+    "title": "From games to biology and beyond: 10 years of AlphaGo’s impact",
+    "summary": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI.",
+    "source_name": "Google DeepMind Blog",
+    "tags": [
+      "DeepMind"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Mon, 09 Mar 2026 13:52:36 +0000",
+    "permalink": "/posts/2026-03-12-ai-5cda3a118f9b/"
+  },
+  {
+    "id": "2026-03-12-ai-5db7cc642b96",
+    "title": "OpenAI to acquire Promptfoo",
+    "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+    "source_name": "OpenAI Blog",
+    "tags": [
+      "OpenAI"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Mon, 09 Mar 2026 10:00:00 GMT",
+    "permalink": "/posts/2026-03-12-ai-5db7cc642b96/"
+  },
+  {
+    "id": "2026-03-12-ai-8c419ccc696d",
+    "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
+    "summary": "",
+    "source_name": "Hugging Face Blog",
+    "tags": [
+      "HuggingFace"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Mon, 09 Mar 2026 00:00:00 GMT",
+    "permalink": "/posts/2026-03-12-ai-8c419ccc696d/"
+  },
+  {
+    "id": "2026-03-12-ai-48304695ea96",
+    "title": "LeRobot v0.5.0: Scaling Every Dimension",
+    "summary": "",
+    "source_name": "Hugging Face Blog",
+    "tags": [
+      "HuggingFace"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Mon, 09 Mar 2026 00:00:00 GMT",
+    "permalink": "/posts/2026-03-12-ai-48304695ea96/"
+  },
+  {
+    "id": "2026-03-12-ai-3838458a40c8",
+    "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
+    "summary": "Research papers point to the growing impact of Deep Think across fields",
+    "source_name": "Google DeepMind Blog",
+    "tags": [
+      "DeepMind"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Mon, 09 Feb 2026 16:12:06 +0000",
+    "permalink": "/posts/2026-03-12-ai-3838458a40c8/"
+  },
+  {
+    "id": "2026-03-12-ai-56b292330d0a",
+    "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
+    "summary": "",
+    "source_name": "Hugging Face Blog",
+    "tags": [
+      "HuggingFace"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Fri, 20 Feb 2026 00:00:00 GMT",
+    "permalink": "/posts/2026-03-12-ai-56b292330d0a/"
+  },
+  {
+    "id": "2026-03-12-ai-c647b2f6a056",
+    "title": "Train AI models with Unsloth and Hugging Face Jobs for FREE",
+    "summary": "",
+    "source_name": "Hugging Face Blog",
+    "tags": [
+      "HuggingFace"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Fri, 20 Feb 2026 00:00:00 GMT",
+    "permalink": "/posts/2026-03-12-ai-c647b2f6a056/"
+  },
+  {
+    "id": "2026-03-12-ai-430862e6412b",
+    "title": "D4RT: Teaching AI to see the world in four dimensions",
+    "summary": "D4RT: Unified, efficient 4D reconstruction and tracking up to 300x faster than prior methods.",
+    "source_name": "Google DeepMind Blog",
+    "tags": [
+      "DeepMind"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Fri, 16 Jan 2026 10:39:00 +0000",
+    "permalink": "/posts/2026-03-12-ai-430862e6412b/"
+  },
+  {
+    "id": "2026-03-12-ai-7af8e06694ee",
+    "title": "How Descript enables multilingual video dubbing at scale",
+    "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
+    "source_name": "OpenAI Blog",
+    "tags": [
+      "OpenAI"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Fri, 06 Mar 2026 10:00:00 GMT",
+    "permalink": "/posts/2026-03-12-ai-7af8e06694ee/"
+  },
+  {
+    "id": "2026-03-12-ai-24be97416bdd",
+    "title": "Codex Security: now in research preview",
+    "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+    "source_name": "OpenAI Blog",
+    "tags": [
+      "OpenAI"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Fri, 06 Mar 2026 10:00:00 GMT",
+    "permalink": "/posts/2026-03-12-ai-24be97416bdd/"
+  },
+  {
+    "id": "2026-03-12-ai-21284a77e750",
+    "title": "How Balyasny Asset Management built an AI research engine for investing",
+    "summary": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale.",
+    "source_name": "OpenAI Blog",
+    "tags": [
+      "OpenAI"
+    ],
+    "section": "AI 资讯",
+    "language": null,
+    "stars": null,
+    "stars_today": null,
+    "published_at": "Fri, 06 Mar 2026 07:00:00 GMT",
+    "permalink": "/posts/2026-03-12-ai-21284a77e750/"
+  },
+  {
+    "id": "2026-03-12-gh-027cf53dcc0b",
+    "title": "microsoft/BitNet",
+    "summary": "语言：Python；今日新增 2149 Star；累计 31205 Star；2627 Fork；Star microsoft / BitNet Official inference framework for 1-bit LLMs",
+    "source_name": "GitHub Trending",
+    "tags": [
+      "GitHub",
+      "Trending",
+      "Python"
+    ],
+    "section": "GitHub 热榜",
+    "language": "Python",
+    "stars": 31205,
+    "stars_today": 2149,
+    "published_at": "2026-03-12T12:58:37.228105+00:00",
+    "permalink": "/posts/2026-03-12-gh-027cf53dcc0b/"
+  },
+  {
+    "id": "2026-03-12-gh-01470fcd6fdf",
+    "title": "fishaudio/fish-speech",
+    "summary": "语言：Python；今日新增 630 Star；累计 26140 Star；2197 Fork；Star fishaudio / fish-speech SOTA Open Source TTS",
+    "source_name": "GitHub Trending",
+    "tags": [
+      "GitHub",
+      "Trending",
+      "Python"
+    ],
+    "section": "GitHub 热榜",
+    "language": "Python",
+    "stars": 26140,
+    "stars_today": 630,
+    "published_at": "2026-03-12T12:58:37.228105+00:00",
+    "permalink": "/posts/2026-03-12-gh-01470fcd6fdf/"
+  },
+  {
+    "id": "2026-03-12-gh-d9e23668fd3a",
+    "title": "langflow-ai/openrag",
+    "summary": "语言：Python；今日新增 191 Star；累计 1085 Star；105 Fork；Star langflow-ai / openrag OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
+    "source_name": "GitHub Trending",
+    "tags": [
+      "GitHub",
+      "Trending",
+      "Python"
+    ],
+    "section": "GitHub 热榜",
+    "language": "Python",
+    "stars": 1085,
+    "stars_today": 191,
+    "published_at": "2026-03-12T12:58:37.228105+00:00",
+    "permalink": "/posts/2026-03-12-gh-d9e23668fd3a/"
+  },
+  {
+    "id": "2026-03-12-gh-f3a69727e98b",
+    "title": "InsForge/InsForge",
+    "summary": "语言：TypeScript；今日新增 260 Star；累计 2665 Star；299 Fork；Sponsor Star InsForge / InsForge Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
+    "source_name": "GitHub Trending",
+    "tags": [
+      "GitHub",
+      "Trending",
+      "TypeScript"
+    ],
+    "section": "GitHub 热榜",
+    "language": "TypeScript",
+    "stars": 2665,
+    "stars_today": 260,
+    "published_at": "2026-03-12T12:58:37.229108+00:00",
+    "permalink": "/posts/2026-03-12-gh-f3a69727e98b/"
+  },
+  {
+    "id": "2026-03-12-gh-beba25220291",
+    "title": "vectorize-io/hindsight",
+    "summary": "语言：Python；今日新增 95 Star；累计 2796 Star；213 Fork；Star vectorize-io / hindsight Hindsight: Agent Memory That Learns",
+    "source_name": "GitHub Trending",
+    "tags": [
+      "GitHub",
+      "Trending",
+      "Python"
+    ],
+    "section": "GitHub 热榜",
+    "language": "Python",
+    "stars": 2796,
+    "stars_today": 95,
+    "published_at": "2026-03-12T12:58:37.229108+00:00",
+    "permalink": "/posts/2026-03-12-gh-beba25220291/"
+  },
+  {
+    "id": "2026-03-12-gh-18e18154a970",
+    "title": "alibaba/page-agent",
+    "summary": "语言：TypeScript；今日新增 1196 Star；累计 5465 Star；424 Fork；Star alibaba / page-agent JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "source_name": "GitHub Trending",
+    "tags": [
+      "GitHub",
+      "Trending",
+      "TypeScript"
+    ],
+    "section": "GitHub 热榜",
+    "language": "TypeScript",
+    "stars": 5465,
+    "stars_today": 1196,
+    "published_at": "2026-03-12T12:58:37.229108+00:00",
+    "permalink": "/posts/2026-03-12-gh-18e18154a970/"
+  },
+  {
+    "id": "2026-03-12-gh-9ebd70486007",
+    "title": "obra/superpowers",
+    "summary": "语言：Shell；今日新增 1708 Star；累计 79131 Star；6121 Fork；Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works.",
+    "source_name": "GitHub Trending",
+    "tags": [
+      "GitHub",
+      "Trending",
+      "Shell"
+    ],
+    "section": "GitHub 热榜",
+    "language": "Shell",
+    "stars": 79131,
+    "stars_today": 1708,
+    "published_at": "2026-03-12T12:58:37.229108+00:00",
+    "permalink": "/posts/2026-03-12-gh-9ebd70486007/"
+  },
+  {
+    "id": "2026-03-12-gh-fa6ad89af647",
+    "title": "NousResearch/hermes-agent",
+    "summary": "语言：Python；今日新增 1235 Star；累计 5813 Star；660 Fork；Star NousResearch / hermes-agent The agent that grows with you",
+    "source_name": "GitHub Trending",
+    "tags": [
+      "GitHub",
+      "Trending",
+      "Python"
+    ],
+    "section": "GitHub 热榜",
+    "language": "Python",
+    "stars": 5813,
+    "stars_today": 1235,
+    "published_at": "2026-03-12T12:58:37.229108+00:00",
+    "permalink": "/posts/2026-03-12-gh-fa6ad89af647/"
+  },
+  {
+    "id": "2026-03-12-gh-f18d9731cbef",
+    "title": "666ghj/MiroFish",
+    "summary": "语言：Python；今日新增 1809 Star；累计 17800 Star；1905 Fork；Star 666ghj / MiroFish A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+    "source_name": "GitHub Trending",
+    "tags": [
+      "GitHub",
+      "Trending",
+      "Python"
+    ],
+    "section": "GitHub 热榜",
+    "language": "Python",
+    "stars": 17800,
+    "stars_today": 1809,
+    "published_at": "2026-03-12T12:58:37.229108+00:00",
+    "permalink": "/posts/2026-03-12-gh-f18d9731cbef/"
+  },
+  {
+    "id": "2026-03-12-gh-ed60f7cd7981",
+    "title": "google-ai-edge/LiteRT",
+    "summary": "语言：C++；今日新增 6 Star；累计 1574 Star；206 Fork；Star google-ai-edge / LiteRT LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization",
+    "source_name": "GitHub Trending",
+    "tags": [
+      "GitHub",
+      "Trending",
+      "C++"
+    ],
+    "section": "GitHub 热榜",
+    "language": "C++",
+    "stars": 1574,
+    "stars_today": 6,
+    "published_at": "2026-03-12T12:58:37.229108+00:00",
+    "permalink": "/posts/2026-03-12-gh-ed60f7cd7981/"
+  },
+  {
+    "id": "2026-03-12-gh-07558a4bfd1b",
+    "title": "msitarzewski/agency-agents",
+    "summary": "语言：Shell；今日新增 4086 Star；累计 32051 Star；4993 Fork；Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "source_name": "GitHub Trending",
+    "tags": [
+      "GitHub",
+      "Trending",
+      "Shell"
+    ],
+    "section": "GitHub 热榜",
+    "language": "Shell",
+    "stars": 32051,
+    "stars_today": 4086,
+    "published_at": "2026-03-12T12:58:37.229108+00:00",
+    "permalink": "/posts/2026-03-12-gh-07558a4bfd1b/"
+  },
+  {
+    "id": "2026-03-12-gh-011fdbb622d4",
+    "title": "google/A2UI",
+    "summary": "语言：TypeScript；今日新增 220 Star；累计 12316 Star；935 Fork",
+    "source_name": "GitHub Trending",
+    "tags": [
+      "GitHub",
+      "Trending",
+      "TypeScript"
+    ],
+    "section": "GitHub 热榜",
+    "language": "TypeScript",
+    "stars": 12316,
+    "stars_today": 220,
+    "published_at": "2026-03-12T12:58:37.230107+00:00",
+    "permalink": "/posts/2026-03-12-gh-011fdbb622d4/"
+  },
+  {
+    "id": "2026-03-12-gh-1096521c01a8",
+    "title": "anthropics/claude-plugins-official",
+    "summary": "语言：Python；今日新增 144 Star；累计 9951 Star；1021 Fork；Star anthropics / claude-plugins-official Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "source_name": "GitHub Trending",
+    "tags": [
+      "GitHub",
+      "Trending",
+      "Python"
+    ],
+    "section": "GitHub 热榜",
+    "language": "Python",
+    "stars": 9951,
+    "stars_today": 144,
+    "published_at": "2026-03-12T12:58:37.230107+00:00",
+    "permalink": "/posts/2026-03-12-gh-1096521c01a8/"
+  }
+]

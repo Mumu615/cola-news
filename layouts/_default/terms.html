@@ -1,0 +1,12 @@
+{{ define "main" }}
+<section class="section-heading page-heading">
+  <p class="eyebrow">Topics</p>
+  <h1>{{ .Title }}</h1>
+  <p>按标签聚合浏览内容。</p>
+</section>
+<section class="tag-cloud">
+  {{ range .Data.Terms.Alphabetical }}
+  <a href="{{ .Page.RelPermalink }}">{{ .Term }} <span>{{ .Count }}</span></a>
+  {{ end }}
+</section>
+{{ end }}

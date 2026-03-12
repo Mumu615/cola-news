@@ -1,0 +1,8 @@
+name = "cola-theme"
+license = "MIT"
+licenselink = "https://github.com/yourusername/cola-news/blob/main/LICENSE"
+description = "可乐资讯专属主题"
+homepage = "https://github.com/yourusername/cola-news"
+tags = ["blog", "news", "minimal"]
+features = ["responsive"]
+min_version = "0.120.0"

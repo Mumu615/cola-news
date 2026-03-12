@@ -1,0 +1,50 @@
+<article class="post-detail">
+  <div class="section-heading page-heading">
+    <p class="eyebrow">Article</p>
+    <h1>{{ .Title }}</h1>
+    <div class="meta-row">
+      <span>{{ with .Params.sourceName }}{{ . }}{{ else }}可乐资讯{{ end }}</span>
+      <span>{{ .Date.Format "2006-01-02 15:04" }}</span>
+      {{ with .Params.newsType }}<span>{{ if eq . "github_trending" }}GitHub 热榜{{ else }}AI 资讯{{ end }}</span>{{ end }}
+    </div>
+  </div>
+  {{ with .Params.summary }}<p class="lead">{{ . }}</p>{{ end }}
+  {{ if eq .Params.newsType "github_trending" }}
+  <div class="meta-row">
+    {{ with .Params.language }}<span>语言：{{ . }}</span>{{ end }}
+    {{ with .Params.stars }}<span>Star：{{ . }}</span>{{ end }}
+    {{ with .Params.forks }}<span>Fork：{{ . }}</span>{{ end }}
+    {{ with .Params.starsToday }}<span>今日新增：{{ . }}</span>{{ end }}
+    {{ with .Params.period }}<span>周期：{{ . }}</span>{{ end }}
+  </div>
+  {{ end }}
+  <div class="rich-content">{{ .Content }}</div>
+  <div class="detail-footer">
+    {{ with .Params.tags }}
+    <div class="tag-row">
+      {{ range . }}<a href="{{ printf "/tags/%s/" (. | urlize) | relURL }}">#{{ . }}</a>{{ end }}
+    </div>
+    {{ end }}
+    {{ with .Params.sourceUrl }}<a class="text-link" href="{{ . }}" target="_blank" rel="noreferrer">查看原始链接</a>{{ end }}
+  </div>
+</article>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": {{ if eq .Params.newsType "github_trending" }}"TechArticle"{{ else }}"NewsArticle"{{ end }},
+  "headline": {{ .Title | jsonify }},
+  "datePublished": {{ .Date.Format "2006-01-02T15:04:05Z07:00" | jsonify }},
+  "dateModified": {{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" | jsonify }},
+  "author": {
+    "@type": "Organization",
+    "name": "可乐资讯"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "可乐资讯"
+  },
+  "mainEntityOfPage": {{ .Permalink | jsonify }},
+  "keywords": {{ delimit .Params.tags "," | jsonify }}
+}
+</script>

@@ -1,0 +1,144 @@
+Watching for changes in D:\Desk_top\可乐资讯\cola-news\{archetypes,assets,content,data,i18n,layouts,static}
+Watching for config changes in D:\Desk_top\可乐资讯\cola-news\hugo.toml
+Start building sites … 
+hugo v0.125.7-b1d808bc373f53ad37c8966bb02a6aea095db5f8+extended windows/amd64 BuildDate=2024-05-08T14:46:24Z VendorInfo=gohugoio
+
+WARN  found no layout file for "json" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+
+                   | ZH-CN  
+-------------------+--------
+  Pages            |    52  
+  Paginator pages  |     0  
+  Non-page files   |     0  
+  Static files     |     3  
+  Processed images |     0  
+  Aliases          |     3  
+  Cleaned          |     0  
+
+Built in 42 ms
+Environment: "development"
+Serving pages from disk
+Web Server is available at http://localhost:1313/cola-news/ (bind address 127.0.0.1) 
+Press Ctrl+C to stop
+
+Change detected, rebuilding site (#1).
+2026-03-12 20:44:48.152 +0800
+Data changed /news/ai_news.json
+WARN  found no layout file for "json" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+Web Server is available at http://localhost:1313/cola-news/ (bind address 127.0.0.1)
+Total in 1 ms
+
+Change detected, rebuilding site (#2).
+2026-03-12 20:44:53.657 +0800
+Data changed /news/github_trending.json
+WARN  found no layout file for "json" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+Web Server is available at http://localhost:1313/cola-news/ (bind address 127.0.0.1)
+Total in 1 ms
+
+Change detected, rebuilding site (#3).
+2026-03-12 20:44:59.657 +0800
+Source changed /posts
+WARN  found no layout file for "json" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+Web Server is available at http://localhost:1313/cola-news/ (bind address 127.0.0.1)
+Total in 5 ms
+
+Change detected, rebuilding site (#4).
+2026-03-12 20:45:03.154 +0800
+WARN  found no layout file for "json" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+Web Server is available at http://localhost:1313/cola-news/ (bind address 127.0.0.1)
+Rebuilt in 59 ms
+
+Change of Static files detected, rebuilding site (#5).
+2026-03-12 20:45:04.648 +0800
+Syncing \data\search\index.json to \
+
+Change detected, rebuilding site (#6).
+2026-03-12 20:45:04.649 +0800
+Data changed /search/index.json
+WARN  found no layout file for "json" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+Web Server is available at http://localhost:1313/cola-news/ (bind address 127.0.0.1)
+Total in 1 ms
+
+Change of Static files detected, rebuilding site (#7).
+2026-03-12 20:45:05.159 +0800
+Syncing \data\search\index.json to \
+
+Change detected, rebuilding site (#8).
+2026-03-12 20:45:32.649 +0800
+Data changed /news/ai_news.json
+WARN  found no layout file for "json" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+Web Server is available at http://localhost:1313/cola-news/ (bind address 127.0.0.1)
+Total in 1 ms
+
+Change detected, rebuilding site (#9).
+2026-03-12 20:45:51.151 +0800
+Data changed /news/ai_news.json
+WARN  found no layout file for "json" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+Web Server is available at http://localhost:1313/cola-news/ (bind address 127.0.0.1)
+Total in 1 ms
+
+Change detected, rebuilding site (#10).
+2026-03-12 20:45:53.655 +0800
+Source changed /posts
+WARN  found no layout file for "json" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+Web Server is available at http://localhost:1313/cola-news/ (bind address 127.0.0.1)
+Total in 7 ms
+
+Change detected, rebuilding site (#11).
+2026-03-12 20:45:57.169 +0800
+WARN  found no layout file for "json" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+Web Server is available at http://localhost:1313/cola-news/ (bind address 127.0.0.1)
+Rebuilt in 75 ms
+
+Change detected, rebuilding site (#12).
+2026-03-12 20:51:04.651 +0800
+Data changed /news/ai_news.json
+WARN  found no layout file for "json" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+Web Server is available at http://localhost:1313/cola-news/ (bind address 127.0.0.1)
+Total in 2 ms
+
+Change detected, rebuilding site (#13).
+2026-03-12 20:51:06.153 +0800
+Data changed /news/github_trending.json
+WARN  found no layout file for "json" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+Web Server is available at http://localhost:1313/cola-news/ (bind address 127.0.0.1)
+Total in 1 ms
+
+Change detected, rebuilding site (#14).
+2026-03-12 20:51:10.677 +0800
+WARN  found no layout file for "json" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+Web Server is available at http://localhost:1313/cola-news/ (bind address 127.0.0.1)
+Rebuilt in 32 ms
+
+Change detected, rebuilding site (#15).
+2026-03-12 20:51:11.157 +0800
+Source changed /posts
+WARN  found no layout file for "json" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+Web Server is available at http://localhost:1313/cola-news/ (bind address 127.0.0.1)
+Total in 3 ms
+
+Change detected, rebuilding site (#16).
+2026-03-12 20:52:49.169 +0800
+WARN  found no layout file for "json" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+Web Server is available at http://localhost:1313/cola-news/ (bind address 127.0.0.1)
+Rebuilt in 63 ms
+
+Change detected, rebuilding site (#17).
+2026-03-12 20:58:35.658 +0800
+Data changed /news/ai_news.json
+WARN  found no layout file for "json" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+Web Server is available at http://localhost:1313/cola-news/ (bind address 127.0.0.1)
+Total in 3 ms
+
+Change detected, rebuilding site (#18).
+2026-03-12 20:58:41.665 +0800
+WARN  found no layout file for "json" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+Web Server is available at http://localhost:1313/cola-news/ (bind address 127.0.0.1)
+Rebuilt in 44 ms
+
+Change detected, rebuilding site (#19).
+2026-03-12 20:58:42.159 +0800
+Source changed /posts
+WARN  found no layout file for "json" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+Web Server is available at http://localhost:1313/cola-news/ (bind address 127.0.0.1)
+Total in 4 ms

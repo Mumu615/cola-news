@@ -1,0 +1,614 @@
+[
+  {
+    "id": "2026-03-12-ai-70070a692226",
+    "type": "ai_news",
+    "title": "A new way to express yourself: Gemini can now create music",
+    "summary": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images.",
+    "content": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images.",
+    "source_name": "Google DeepMind Blog",
+    "source_url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
+    "author": "Google DeepMind Blog",
+    "tags": [
+      "DeepMind"
+    ],
+    "published_at": "Wed, 18 Feb 2026 16:01:38 +0000",
+    "collected_at": "2026-03-12T12:58:35.450131+00:00",
+    "lang": "zh-CN",
+    "hash": "b934739e2ea6d6ecf12b15095ae1a406e0d3fe2c72dae12f8a119dc6762b4037"
+  },
+  {
+    "id": "2026-03-12-ai-4df80db8c9aa",
+    "type": "ai_news",
+    "title": "Rakuten fixes issues twice as fast with Codex",
+    "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
+    "content": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/index/rakuten",
+    "author": "OpenAI Blog",
+    "tags": [
+      "OpenAI"
+    ],
+    "published_at": "Wed, 11 Mar 2026 13:00:00 GMT",
+    "collected_at": "2026-03-12T12:58:33.572809+00:00",
+    "lang": "zh-CN",
+    "hash": "928a2d35683d0eb09c9b50c7cefee3c235eee7bf0da6dc8679e66153e1358a20"
+  },
+  {
+    "id": "2026-03-12-ai-6a121168ce92",
+    "type": "ai_news",
+    "title": "Designing AI agents to resist prompt injection",
+    "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+    "content": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+    "author": "OpenAI Blog",
+    "tags": [
+      "OpenAI"
+    ],
+    "published_at": "Wed, 11 Mar 2026 11:30:00 GMT",
+    "collected_at": "2026-03-12T12:58:33.572809+00:00",
+    "lang": "zh-CN",
+    "hash": "6c002f22aa97c709b553079926b7defadd1f9a8d7f7827e8ec509e7646608825"
+  },
+  {
+    "id": "2026-03-12-ai-61fc2db7f737",
+    "type": "ai_news",
+    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+    "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+    "content": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/index/wayfair",
+    "author": "OpenAI Blog",
+    "tags": [
+      "OpenAI"
+    ],
+    "published_at": "Wed, 11 Mar 2026 11:00:00 GMT",
+    "collected_at": "2026-03-12T12:58:33.572809+00:00",
+    "lang": "zh-CN",
+    "hash": "6969b85aeda463116f1ab78a9ec3e897bf35f272b1e91812ff6bf5e0663785dc"
+  },
+  {
+    "id": "2026-03-12-ai-4c3591cdce6d",
+    "type": "ai_news",
+    "title": "From model to agent: Equipping the Responses API with a computer environment",
+    "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+    "content": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/index/equip-responses-api-computer-environment",
+    "author": "OpenAI Blog",
+    "tags": [
+      "OpenAI"
+    ],
+    "published_at": "Wed, 11 Mar 2026 11:00:00 GMT",
+    "collected_at": "2026-03-12T12:58:33.572809+00:00",
+    "lang": "zh-CN",
+    "hash": "1361e2b2c22267f074810e8248c14c6e93ba6a9e8324fbfca2fc15a3b1fd4b08"
+  },
+  {
+    "id": "2026-03-12-ai-a3b05b385d6f",
+    "type": "ai_news",
+    "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
+    "summary": "Google 2025 recap: Research breakthroughs of the year",
+    "content": "Google 2025 recap: Research breakthroughs of the year",
+    "source_name": "Google DeepMind Blog",
+    "source_url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
+    "author": "Google DeepMind Blog",
+    "tags": [
+      "DeepMind"
+    ],
+    "published_at": "Tue, 23 Dec 2025 17:01:02 +0000",
+    "collected_at": "2026-03-12T12:58:35.450131+00:00",
+    "lang": "zh-CN",
+    "hash": "20a079b3647abf31244693714dfba270dd44d01c476ed4038423ef93695b8969"
+  },
+  {
+    "id": "2026-03-12-ai-c889d54f88d1",
+    "type": "ai_news",
+    "title": "Accelerating discovery in India through AI-powered science and education",
+    "summary": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education",
+    "content": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education",
+    "source_name": "Google DeepMind Blog",
+    "source_url": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
+    "author": "Google DeepMind Blog",
+    "tags": [
+      "DeepMind"
+    ],
+    "published_at": "Tue, 17 Feb 2026 13:42:20 +0000",
+    "collected_at": "2026-03-12T12:58:35.450131+00:00",
+    "lang": "zh-CN",
+    "hash": "63f4b970872c264b37b59301aac73da2ef6bfdb22206c6627128f6c5459a1758"
+  },
+  {
+    "id": "2026-03-12-ai-64a3adb19994",
+    "type": "ai_news",
+    "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+    "summary": "Our latest Veo update generates lively, dynamic clips that feel natural and engaging — and supports vertical video generation.",
+    "content": "Our latest Veo update generates lively, dynamic clips that feel natural and engaging — and supports vertical video generation.",
+    "source_name": "Google DeepMind Blog",
+    "source_url": "https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/",
+    "author": "Google DeepMind Blog",
+    "tags": [
+      "DeepMind"
+    ],
+    "published_at": "Tue, 13 Jan 2026 17:00:18 +0000",
+    "collected_at": "2026-03-12T12:58:35.450131+00:00",
+    "lang": "zh-CN",
+    "hash": "ebd7643911f844fa45b513effdbbf9021dc16da6692edcf1ea5210e358d3be02"
+  },
+  {
+    "id": "2026-03-12-ai-c10bb33b142f",
+    "type": "ai_news",
+    "title": "Improving instruction hierarchy in frontier LLMs",
+    "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
+    "content": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/index/instruction-hierarchy-challenge",
+    "author": "OpenAI Blog",
+    "tags": [
+      "OpenAI"
+    ],
+    "published_at": "Tue, 10 Mar 2026 11:00:00 GMT",
+    "collected_at": "2026-03-12T12:58:33.572809+00:00",
+    "lang": "zh-CN",
+    "hash": "999b7537e951617fda75050bf8613cb1366d9aa1c5c449d28232b7e925a9dcbf"
+  },
+  {
+    "id": "2026-03-12-ai-3bdd8607a4ee",
+    "type": "ai_news",
+    "title": "New ways to learn math and science in ChatGPT",
+    "summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
+    "content": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
+    "author": "OpenAI Blog",
+    "tags": [
+      "OpenAI"
+    ],
+    "published_at": "Tue, 10 Mar 2026 10:00:00 GMT",
+    "collected_at": "2026-03-12T12:58:33.572809+00:00",
+    "lang": "zh-CN",
+    "hash": "3a572e051bb6b79c5356c0af9816283c1bbf430783715dd30ee592591c577ba4"
+  },
+  {
+    "id": "2026-03-12-ai-a811ba168e8a",
+    "type": "ai_news",
+    "title": "Introducing Storage Buckets on the Hugging Face Hub",
+    "summary": "",
+    "content": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/storage-buckets",
+    "author": "Hugging Face Blog",
+    "tags": [
+      "HuggingFace"
+    ],
+    "published_at": "Tue, 10 Mar 2026 00:00:00 GMT",
+    "collected_at": "2026-03-12T12:58:34.339533+00:00",
+    "lang": "zh-CN",
+    "hash": "a811ba168e8ab26063dbe514c2d2e47bd46a0823965917c4cdd5cecee9c6878b"
+  },
+  {
+    "id": "2026-03-12-ai-eedb52b540be",
+    "type": "ai_news",
+    "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
+    "summary": "",
+    "content": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/async-rl-training-landscape",
+    "author": "Hugging Face Blog",
+    "tags": [
+      "HuggingFace"
+    ],
+    "published_at": "Tue, 10 Mar 2026 00:00:00 GMT",
+    "collected_at": "2026-03-12T12:58:34.339533+00:00",
+    "lang": "zh-CN",
+    "hash": "eedb52b540be6b1295c86984c0f6f1006d2ccb88f1c19239bfcbbd20a4ac35a5"
+  },
+  {
+    "id": "2026-03-12-ai-e9f337c84f39",
+    "type": "ai_news",
+    "title": "PRX Part 3 — Training a Text-to-Image Model in 24h!",
+    "summary": "",
+    "content": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/Photoroom/prx-part3",
+    "author": "Hugging Face Blog",
+    "tags": [
+      "HuggingFace"
+    ],
+    "published_at": "Tue, 03 Mar 2026 16:50:49 GMT",
+    "collected_at": "2026-03-12T12:58:34.339533+00:00",
+    "lang": "zh-CN",
+    "hash": "e9f337c84f39d5f383e51c6dad01df7d10b211037c93e98a42db621d121e5a8c"
+  },
+  {
+    "id": "2026-03-12-ai-05fb5653b2a8",
+    "type": "ai_news",
+    "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+    "summary": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
+    "content": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
+    "source_name": "Google DeepMind Blog",
+    "source_url": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+    "author": "Google DeepMind Blog",
+    "tags": [
+      "DeepMind"
+    ],
+    "published_at": "Tue, 03 Mar 2026 16:35:55 +0000",
+    "collected_at": "2026-03-12T12:58:35.450131+00:00",
+    "lang": "zh-CN",
+    "hash": "e803e45e98bfdd086ab1d60186a6d03e9f6d686e0cc8b1f6ac5d6b6c615e5698"
+  },
+  {
+    "id": "2026-03-12-ai-0fe114227dcc",
+    "type": "ai_news",
+    "title": "Project Genie: Experimenting with infinite, interactive worlds",
+    "summary": "Google AI Ultra subscribers in the U.S. can try out Project Genie, an experimental research prototype that lets you create and explore worlds.",
+    "content": "Google AI Ultra subscribers in the U.S. can try out Project Genie, an experimental research prototype that lets you create and explore worlds.",
+    "source_name": "Google DeepMind Blog",
+    "source_url": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
+    "author": "Google DeepMind Blog",
+    "tags": [
+      "DeepMind"
+    ],
+    "published_at": "Thu, 29 Jan 2026 17:01:05 +0000",
+    "collected_at": "2026-03-12T12:58:35.450131+00:00",
+    "lang": "zh-CN",
+    "hash": "5354cf14de8c0670b81b6b755f3d7de38f2d380a4e4c65fe3608f2e975ef4cba"
+  },
+  {
+    "id": "2026-03-12-ai-1d7158e0c1aa",
+    "type": "ai_news",
+    "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+    "summary": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed.",
+    "content": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed.",
+    "source_name": "Google DeepMind Blog",
+    "source_url": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+    "author": "Google DeepMind Blog",
+    "tags": [
+      "DeepMind"
+    ],
+    "published_at": "Thu, 26 Feb 2026 16:01:50 +0000",
+    "collected_at": "2026-03-12T12:58:35.450131+00:00",
+    "lang": "zh-CN",
+    "hash": "586c153080e71dd9d3cc98292506fc51244f4ce65f08ed816dcbaaaba30bfd32"
+  },
+  {
+    "id": "2026-03-12-ai-c13edc697bb6",
+    "type": "ai_news",
+    "title": "Mixture of Experts (MoEs) in Transformers",
+    "summary": "",
+    "content": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/moe-transformers",
+    "author": "Hugging Face Blog",
+    "tags": [
+      "HuggingFace"
+    ],
+    "published_at": "Thu, 26 Feb 2026 00:00:00 GMT",
+    "collected_at": "2026-03-12T12:58:34.339533+00:00",
+    "lang": "zh-CN",
+    "hash": "c13edc697bb6efad80164f4f58bce67ddf03fe8ff118b7e6eb1fbb1a083be16b"
+  },
+  {
+    "id": "2026-03-12-ai-3d7f93c0d5ac",
+    "type": "ai_news",
+    "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+    "summary": "3.1 Pro is designed for tasks where a simple answer isn’t enough.",
+    "content": "3.1 Pro is designed for tasks where a simple answer isn’t enough.",
+    "source_name": "Google DeepMind Blog",
+    "source_url": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
+    "author": "Google DeepMind Blog",
+    "tags": [
+      "DeepMind"
+    ],
+    "published_at": "Thu, 19 Feb 2026 16:06:14 +0000",
+    "collected_at": "2026-03-12T12:58:35.450131+00:00",
+    "lang": "zh-CN",
+    "hash": "d9442d0b94780ca6f7a87587bc18940d8c083012e468354057561d816ce267f6"
+  },
+  {
+    "id": "2026-03-12-ai-98d72393bae2",
+    "type": "ai_news",
+    "title": "How NVIDIA AI-Q Reached \\#1 on DeepResearch Bench I and II",
+    "summary": "",
+    "content": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench",
+    "author": "Hugging Face Blog",
+    "tags": [
+      "HuggingFace"
+    ],
+    "published_at": "Thu, 12 Mar 2026 03:53:34 GMT",
+    "collected_at": "2026-03-12T12:58:34.339533+00:00",
+    "lang": "zh-CN",
+    "hash": "98d72393bae2d6ba6a3065a3ae70c02e7cdcfc89704f54538b80b1868cec0cd0"
+  },
+  {
+    "id": "2026-03-12-ai-6b28fc121c51",
+    "type": "ai_news",
+    "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+    "summary": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges.",
+    "content": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges.",
+    "source_name": "Google DeepMind Blog",
+    "source_url": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
+    "author": "Google DeepMind Blog",
+    "tags": [
+      "DeepMind"
+    ],
+    "published_at": "Thu, 12 Feb 2026 16:15:09 +0000",
+    "collected_at": "2026-03-12T12:58:35.450131+00:00",
+    "lang": "zh-CN",
+    "hash": "c9c770a9bde26d59d57f653cfc58f1ce8cdd9ea9c64b27bc376d4a3471e8033a"
+  },
+  {
+    "id": "2026-03-12-ai-0a2a3558de7a",
+    "type": "ai_news",
+    "title": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
+    "summary": "",
+    "content": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
+    "author": "Hugging Face Blog",
+    "tags": [
+      "HuggingFace"
+    ],
+    "published_at": "Thu, 05 Mar 2026 14:16:49 GMT",
+    "collected_at": "2026-03-12T12:58:34.339533+00:00",
+    "lang": "zh-CN",
+    "hash": "0a2a3558de7acc2fd1cf361c603c82c6c24b3db45e2088b56f6d9b4c0b1606f2"
+  },
+  {
+    "id": "2026-03-12-ai-ee874fb8ed33",
+    "type": "ai_news",
+    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+    "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+    "content": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+    "author": "OpenAI Blog",
+    "tags": [
+      "OpenAI"
+    ],
+    "published_at": "Thu, 05 Mar 2026 10:00:00 GMT",
+    "collected_at": "2026-03-12T12:58:33.572809+00:00",
+    "lang": "zh-CN",
+    "hash": "2cfd898157ac5e3d85cd17fcfa115d9434dfa11721b1d7ba13cec244897a6992"
+  },
+  {
+    "id": "2026-03-12-ai-b5ac6063bbec",
+    "type": "ai_news",
+    "title": "GPT-5.4 Thinking System Card",
+    "summary": "",
+    "content": "",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/index/gpt-5-4-thinking-system-card",
+    "author": "OpenAI Blog",
+    "tags": [
+      "OpenAI"
+    ],
+    "published_at": "Thu, 05 Mar 2026 10:00:00 GMT",
+    "collected_at": "2026-03-12T12:58:33.572809+00:00",
+    "lang": "zh-CN",
+    "hash": "b5ac6063bbec8383ec0418ed2281c3d4f8e7e166f215fd0031656c91dd85b00b"
+  },
+  {
+    "id": "2026-03-12-ai-d37b7be10955",
+    "type": "ai_news",
+    "title": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines",
+    "summary": "",
+    "content": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/modular-diffusers",
+    "author": "Hugging Face Blog",
+    "tags": [
+      "HuggingFace"
+    ],
+    "published_at": "Thu, 05 Mar 2026 00:00:00 GMT",
+    "collected_at": "2026-03-12T12:58:34.339533+00:00",
+    "lang": "zh-CN",
+    "hash": "d37b7be10955ceb9de11408bf4be152fba8da70d61d7188fee422aac139c60fd"
+  },
+  {
+    "id": "2026-03-12-ai-e511f0abb208",
+    "type": "ai_news",
+    "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
+    "summary": "",
+    "content": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/ibm-granite/granite-4-speech",
+    "author": "Hugging Face Blog",
+    "tags": [
+      "HuggingFace"
+    ],
+    "published_at": "Mon, 09 Mar 2026 18:36:33 GMT",
+    "collected_at": "2026-03-12T12:58:34.339533+00:00",
+    "lang": "zh-CN",
+    "hash": "e511f0abb208e86338e62d559f164f1c83093c80fa2356c21fcebc5ae30273db"
+  },
+  {
+    "id": "2026-03-12-ai-5cda3a118f9b",
+    "type": "ai_news",
+    "title": "From games to biology and beyond: 10 years of AlphaGo’s impact",
+    "summary": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI.",
+    "content": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI.",
+    "source_name": "Google DeepMind Blog",
+    "source_url": "https://deepmind.google/blog/10-years-of-alphago/",
+    "author": "Google DeepMind Blog",
+    "tags": [
+      "DeepMind"
+    ],
+    "published_at": "Mon, 09 Mar 2026 13:52:36 +0000",
+    "collected_at": "2026-03-12T12:58:35.450131+00:00",
+    "lang": "zh-CN",
+    "hash": "a201602c8e55c3ff0a0a16cf34eaf6c9187c7f2230dd756735d2dafc9e2a1181"
+  },
+  {
+    "id": "2026-03-12-ai-5db7cc642b96",
+    "type": "ai_news",
+    "title": "OpenAI to acquire Promptfoo",
+    "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+    "content": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/index/openai-to-acquire-promptfoo",
+    "author": "OpenAI Blog",
+    "tags": [
+      "OpenAI"
+    ],
+    "published_at": "Mon, 09 Mar 2026 10:00:00 GMT",
+    "collected_at": "2026-03-12T12:58:33.572809+00:00",
+    "lang": "zh-CN",
+    "hash": "79208df68479f827b0296f8de74b1200656edf7debcaf3449906075aea3cc76c"
+  },
+  {
+    "id": "2026-03-12-ai-8c419ccc696d",
+    "type": "ai_news",
+    "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
+    "summary": "",
+    "content": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/ulysses-sp",
+    "author": "Hugging Face Blog",
+    "tags": [
+      "HuggingFace"
+    ],
+    "published_at": "Mon, 09 Mar 2026 00:00:00 GMT",
+    "collected_at": "2026-03-12T12:58:34.339533+00:00",
+    "lang": "zh-CN",
+    "hash": "8c419ccc696d4151d0484c494d4c4ed8cc1013ac24f90a44267c2557fd90b7bd"
+  },
+  {
+    "id": "2026-03-12-ai-48304695ea96",
+    "type": "ai_news",
+    "title": "LeRobot v0.5.0: Scaling Every Dimension",
+    "summary": "",
+    "content": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/lerobot-release-v050",
+    "author": "Hugging Face Blog",
+    "tags": [
+      "HuggingFace"
+    ],
+    "published_at": "Mon, 09 Mar 2026 00:00:00 GMT",
+    "collected_at": "2026-03-12T12:58:34.339533+00:00",
+    "lang": "zh-CN",
+    "hash": "48304695ea96a945bd1257e410eaca0666964854c9f11bbd33b83784c83c7285"
+  },
+  {
+    "id": "2026-03-12-ai-3838458a40c8",
+    "type": "ai_news",
+    "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
+    "summary": "Research papers point to the growing impact of Deep Think across fields",
+    "content": "Research papers point to the growing impact of Deep Think across fields",
+    "source_name": "Google DeepMind Blog",
+    "source_url": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
+    "author": "Google DeepMind Blog",
+    "tags": [
+      "DeepMind"
+    ],
+    "published_at": "Mon, 09 Feb 2026 16:12:06 +0000",
+    "collected_at": "2026-03-12T12:58:35.450131+00:00",
+    "lang": "zh-CN",
+    "hash": "c4425bc2d6ca143a6d367624ef6dd7af4cfbb6ef530430671c653a41d83fe008"
+  },
+  {
+    "id": "2026-03-12-ai-56b292330d0a",
+    "type": "ai_news",
+    "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
+    "summary": "",
+    "content": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/ggml-joins-hf",
+    "author": "Hugging Face Blog",
+    "tags": [
+      "HuggingFace"
+    ],
+    "published_at": "Fri, 20 Feb 2026 00:00:00 GMT",
+    "collected_at": "2026-03-12T12:58:34.339533+00:00",
+    "lang": "zh-CN",
+    "hash": "56b292330d0abf4280bc2af0cac9d11eebc5d995c164eaa837e4d0496bca7079"
+  },
+  {
+    "id": "2026-03-12-ai-c647b2f6a056",
+    "type": "ai_news",
+    "title": "Train AI models with Unsloth and Hugging Face Jobs for FREE",
+    "summary": "",
+    "content": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/unsloth-jobs",
+    "author": "Hugging Face Blog",
+    "tags": [
+      "HuggingFace"
+    ],
+    "published_at": "Fri, 20 Feb 2026 00:00:00 GMT",
+    "collected_at": "2026-03-12T12:58:34.339533+00:00",
+    "lang": "zh-CN",
+    "hash": "c647b2f6a056988f9bfbb40a1a3bd6815f8c6b06a9b77f170569e7d73d7d89ee"
+  },
+  {
+    "id": "2026-03-12-ai-430862e6412b",
+    "type": "ai_news",
+    "title": "D4RT: Teaching AI to see the world in four dimensions",
+    "summary": "D4RT: Unified, efficient 4D reconstruction and tracking up to 300x faster than prior methods.",
+    "content": "D4RT: Unified, efficient 4D reconstruction and tracking up to 300x faster than prior methods.",
+    "source_name": "Google DeepMind Blog",
+    "source_url": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
+    "author": "Google DeepMind Blog",
+    "tags": [
+      "DeepMind"
+    ],
+    "published_at": "Fri, 16 Jan 2026 10:39:00 +0000",
+    "collected_at": "2026-03-12T12:58:35.450131+00:00",
+    "lang": "zh-CN",
+    "hash": "97f45ee8b2cda080012d572581d8d3ce09295707f7601af1d5619cc281ff394e"
+  },
+  {
+    "id": "2026-03-12-ai-7af8e06694ee",
+    "type": "ai_news",
+    "title": "How Descript enables multilingual video dubbing at scale",
+    "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
+    "content": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/index/descript",
+    "author": "OpenAI Blog",
+    "tags": [
+      "OpenAI"
+    ],
+    "published_at": "Fri, 06 Mar 2026 10:00:00 GMT",
+    "collected_at": "2026-03-12T12:58:33.572809+00:00",
+    "lang": "zh-CN",
+    "hash": "c4d4ce66832806477f18c7f2c24febdfb334bf6cf020bcdee42fa902c4088474"
+  },
+  {
+    "id": "2026-03-12-ai-24be97416bdd",
+    "type": "ai_news",
+    "title": "Codex Security: now in research preview",
+    "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+    "content": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/index/codex-security-now-in-research-preview",
+    "author": "OpenAI Blog",
+    "tags": [
+      "OpenAI"
+    ],
+    "published_at": "Fri, 06 Mar 2026 10:00:00 GMT",
+    "collected_at": "2026-03-12T12:58:33.572809+00:00",
+    "lang": "zh-CN",
+    "hash": "0bed18d03bf9a8db7733697f42821898477b94dfd482749339cbc46d9cb4025a"
+  },
+  {
+    "id": "2026-03-12-ai-21284a77e750",
+    "type": "ai_news",
+    "title": "How Balyasny Asset Management built an AI research engine for investing",
+    "summary": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale.",
+    "content": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com/index/balyasny-asset-management",
+    "author": "OpenAI Blog",
+    "tags": [
+      "OpenAI"
+    ],
+    "published_at": "Fri, 06 Mar 2026 07:00:00 GMT",
+    "collected_at": "2026-03-12T12:58:33.572809+00:00",
+    "lang": "zh-CN",
+    "hash": "08348a2115d9eb03a6a1d8f4e33a1b4ee1894c2a675d3aa20360455d6c9256ea"
+  }
+]
