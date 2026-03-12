@@ -1,79 +1,66 @@
-baseURL = "https://yourusername.github.io/cola-news/"
+baseURL = "https://mumu615.github.io/cola-news/"
 languageCode = "zh-cn"
-title = "可乐资讯"
-theme = "cola-theme"
 defaultContentLanguage = "zh-cn"
+title = "可乐资讯"
+theme = "PaperMod"
+
 hasCJKLanguage = true
 enableRobotsTXT = true
 enableEmoji = true
-paginate = 15
-paginatePath = "page"
-summaryLength = 120
+
+[pagination]
+  pagerSize = 12
 
 [services]
   [services.rss]
-    limit = 30
-
-[params]
-  description = "每日精选 AI 前沿资讯 & GitHub 热门项目，自动采集、自动更新。"
-  keywords = ["AI资讯", "GitHub热榜", "人工智能", "开源项目"]
-  author = "可乐资讯"
-  logo = "/images/logo.svg"
-  favicon = "/images/favicon.ico"
-
-[params.social]
-  rss = "/index.xml"
-
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
-  section = ["HTML", "RSS"]
-  page = ["HTML"]
-  taxonomy = ["HTML", "RSS"]
-  term = ["HTML", "RSS"]
+    limit = 50
 
 [taxonomies]
   tag = "tags"
   category = "categories"
 
-[sitemap]
-  changefreq = "daily"
-  priority = 0.5
-  filename = "sitemap.xml"
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  term = ["HTML", "RSS"]
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-  [markup.highlight]
-    style = "dracula"
-    lineNos = false
+[params]
+  description = "AI 前沿资讯与 Twitter 简报"
+  author = "可乐资讯"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  ShowBreadCrumbs = true
+  ShowRssButtonInSectionTermList = true
+  ShowToc = false
 
-[menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "首页"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    identifier = "ai"
-    name = "AI资讯"
-    url = "/ai/"
-    weight = 2
-  [[menu.main]]
-    identifier = "github"
-    name = "GitHub热榜"
-    url = "/github/"
-    weight = 3
-  [[menu.main]]
-    identifier = "tags"
-    name = "标签"
-    url = "/tags/"
-    weight = 4
-  [[menu.main]]
-    identifier = "search"
-    name = "搜索"
-    url = "/search/"
-    weight = 5
+  [params.homeInfoParams]
+    Title = "可乐资讯"
+    Content = "聚合 AI 资讯、Twitter 动态与简报，自动更新。"
 
-[permalinks]
-  posts = "/posts/:slug/"
+[[menu.main]]
+  identifier = "home"
+  name = "首页"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "posts"
+  name = "资讯"
+  url = "/posts/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "tags"
+  name = "标签"
+  url = "/tags/"
+  weight = 3
+
+[[menu.main]]
+  identifier = "search"
+  name = "搜索"
+  url = "/search/"
+  weight = 4
